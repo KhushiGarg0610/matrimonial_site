@@ -1,0 +1,14 @@
+593 table not dynamic
+
+table
+by default design,validation,database with library
+1.)category wise form 
+--registration (complete profile)  (single/multiple tables)
+--search form 1.with profile id/mobile/emailid(if mobileno or emailid public)
+              2. with filters (location wise members/age/religion/caste
+              )
+
+              contact (help page)
+              aboutus(static page)
+
+age calculator                     
